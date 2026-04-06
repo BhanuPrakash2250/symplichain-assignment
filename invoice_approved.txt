@@ -1,0 +1,24 @@
+FREIGHT INVOICE
+===============
+Invoice No  : INV-2025-0891
+Invoice Date: 2025-03-10
+Due Date    : 2025-04-10
+Vendor      : FastFreight Logistics Pvt Ltd
+Shipment ID : SH-2025-0312
+
+Bill To:
+  Symplichain Technologies Pvt Ltd
+  Pune, Maharashtra - 411001
+
+CHARGE DESCRIPTION                          AMOUNT (USD)
+-----------------------------------------------------------
+Base Freight (Mumbai → Chennai, 1,200 km)   $1,200.00
+Fuel Surcharge (12% of base freight)          $144.00
+Accessorial - Loading & Unloading              $80.00
+-----------------------------------------------------------
+TOTAL DUE                                   $1,424.00
+
+Payment Terms : Net 30 Days
+Bank Details  : HDFC Bank | A/c 1234567890 | IFSC HDFC0001234
+
+Authorised Signatory: _________________

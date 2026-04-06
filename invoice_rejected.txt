@@ -1,0 +1,20 @@
+COMMERCIAL INVOICE
+==================
+INV NO  : 2025-894
+DATE    : March 10, 2025
+VENDOR  : FastFreight Logistics Pvt Ltd
+SHIP ID : SH-2025-0315
+
+CONSIGNOR : FastFreight Logistics Pvt Ltd, Mumbai
+CONSIGNEE : Symplichain Technologies, Delhi
+
+DESCRIPTION OF CHARGES:
+  Freight charges (Mumbai to Delhi, 1400 km) :  $2,400.00
+  Fuel adjustment                             :    $300.00
+  Extra handling + demurrage fees             :    $450.00
+  -------------------------------------------------------
+  INVOICE TOTAL                               :  $3,500.00
+
+  *** Note: Demurrage incurred due to 6hr delay at origin ***
+
+For queries: billing@fastfreight.in | +91-22-1234-5678

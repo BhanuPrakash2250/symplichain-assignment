@@ -1,0 +1,20 @@
+TAX INVOICE
+===========
+Invoice #   : INV-2025-0892
+Billing Date: 10-Mar-2025
+Due Date    : 10-Apr-2025
+
+From: FastFreight Logistics Pvt Ltd
+To  : Symplichain Technologies Pvt Ltd
+
+Shipment Ref: SH-2025-0313
+Route       : Pune to Hyderabad
+
+CHARGES:
+  Base Freight       : $950.00
+  Fuel Surcharge     : $190.00    (NOTE: applied at 20%, above agreed 12%)
+  Accessorial Fees   : $60.00
+  ----------------------------
+  TOTAL              : $1,200.00
+
+This invoice supersedes any previous billing for the above shipment.
